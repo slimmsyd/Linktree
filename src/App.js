@@ -3,22 +3,29 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className = "App">
+
+      <li className = "bigBox"></li>
+      <li>Sydney Sanders</li>
+      <div className = "App gap">
+          <div className = "box">
+          <a href = 'https://www.sydneysanders.dev/'>Website</a>
+              </div>
+          <div className = "box">
+          <a href = 'https://twitter.com/slimmsyd'>Twitter</a>
+              </div>
+          <div className = "box">
+          <a href = '#'>Instagram</a>
+              </div>
+          <div className = "box">
+          <a href = 'https://www.youtube.com/channel/UCC8yLhVL7lThf295DtD4rag'>Youtube</a>
+              </div>
+          <div className = "box">
+          <a href = 'https://discord.gg/n7edy28k'>Discord</a>
+              </div>
+      </div>
     </div>
+     
   );
 }
 
