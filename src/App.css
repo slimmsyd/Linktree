@@ -29,8 +29,7 @@ a {
 .box{ 
   width: 446px;
   height: 50px;
-  left: 505px;
-  top: 328px;
+  
   display: flex;
   justify-content: center;
   align-items: center;
