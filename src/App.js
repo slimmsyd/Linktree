@@ -27,7 +27,7 @@ function App() {
               </div>
               
           <div className = "box">
-          <a href = ''>Discord</a>
+          <a href = 'https://www.linkedin.com/in/sydney-sanders-dev/'>Linkedin</a>
               </div>
       </div>
     </div>
