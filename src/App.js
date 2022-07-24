@@ -19,7 +19,7 @@ function App() {
               </div>
 
           <div className = "box">
-          <a href = '#'>Instagram</a>
+          <a href = 'https://erc-1155-one.vercel.app/'>ERC-1155 MINT ME</a>
               </div>
 
           <div className = "box">
